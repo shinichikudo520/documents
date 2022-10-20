@@ -7,7 +7,7 @@
 6. 获取秘钥：`cat ~/.ssh/id_rsa.pub` 
 7. 上 git 添加秘钥
 8. `git remote add origin https://github.com/shinichikudo520/***.git`
-9. `git pull`
+9. `git pull origin master`
 
 ### ssl连接错误
 ![ssl连接错误](./img/SSL_connect.png)
