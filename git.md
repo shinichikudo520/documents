@@ -57,6 +57,3 @@ git config --global --unset https.proxy
     PreferredAuthentications publickey
     IdentityFile ~/.ssh/id_rsa
   ```
-
-
-test
